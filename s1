@@ -1,0 +1,10 @@
+{
+    "Translation": "In the beginning was the word.",
+    "Text": {
+      "w1": { "OP": "𐏁𐏂𐎯𐎿𐏁", "TransC": "In", "TransL": "In" },
+      "w2": { "OP": "𐎭𐎪", "TransC": "the", "TransL": "the" },
+      "w3": { "OP": "𐏂𐎯", "TransC": "start", "TransL": "beginning" },
+      "w4": { "OP": "𐏁𐏂", "TransC": "was", "TransL": "was" },
+      "w5": { "OP": "𐏁", "TransC": "the", "TransL": "the" },
+      "w6": { "OP": "𐎯𐎿𐏁", "TransC": "utterance", "TransL": "word" }
+    }
