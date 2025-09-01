@@ -1,15 +1,15 @@
 {
-  "S1":  { "Name": "the fuck!",  "Link": "#/scriptures/S1" },
-  "S2":  { "Name": "DNa",  "Link": "#/scriptures/S2" },
-  "S3":  { "Name": "Scripture 3",  "Link": "#/scriptures/S3" },
-  "S4":  { "Name": "Scripture 4",  "Link": "#/scriptures/S4" },
-  "S5":  { "Name": "Scripture 5",  "Link": "#/scriptures/S5" },
-  "S6":  { "Name": "Scripture 6",  "Link": "#/scriptures/S6" },
-  "S7":  { "Name": "Scripture 7",  "Link": "#/scriptures/S7" },
-  "S8":  { "Name": "Scripture 8",  "Link": "#/scriptures/S8" },
-  "S9":  { "Name": "Scripture 9",  "Link": "#/scriptures/S9" },
-  "S10": { "Name": "Scripture 10", "Link": "#/scriptures/S10" },
-  "S11": { "Name": "Scripture 11", "Link": "#/scriptures/S11" },
-  "S12": { "Name": "ai is smarter than me!", "Link": "#/scriptures/S12" }
+  "S1":  { "Name": "the fuck!",  "Link": "https://raw.githubusercontent.com/tarjiband/dataForSite/refs/heads/main/s1" },
+  "S2":  { "Name": "DNa",  "Link": "https://raw.githubusercontent.com/tarjiband/dataForSite/refs/heads/main/s1" },
+  "S3":  { "Name": "Scripture 3",  "Link": "https://raw.githubusercontent.com/tarjiband/dataForSite/refs/heads/main/s1" },
+  "S4":  { "Name": "Scripture 4",  "Link": "https://raw.githubusercontent.com/tarjiband/dataForSite/refs/heads/main/s1" },
+  "S5":  { "Name": "Scripture 5",  "Link": "https://raw.githubusercontent.com/tarjiband/dataForSite/refs/heads/main/s1" },
+  "S6":  { "Name": "Scripture 6",  "Link": "https://raw.githubusercontent.com/tarjiband/dataForSite/refs/heads/main/s1" },
+  "S7":  { "Name": "Scripture 7",  "Link": "https://raw.githubusercontent.com/tarjiband/dataForSite/refs/heads/main/s1" },
+  "S8":  { "Name": "Scripture 8",  "Link": "https://raw.githubusercontent.com/tarjiband/dataForSite/refs/heads/main/s1" },
+  "S9":  { "Name": "Scripture 9",  "Link": "https://raw.githubusercontent.com/tarjiband/dataForSite/refs/heads/main/s1" },
+  "S10": { "Name": "Scripture 10", "Link": "https://raw.githubusercontent.com/tarjiband/dataForSite/refs/heads/main/s1" },
+  "S11": { "Name": "Scripture 11", "Link": "https://raw.githubusercontent.com/tarjiband/dataForSite/refs/heads/main/s1" },
+  "S12": { "Name": "ai is smarter than me!", "https://raw.githubusercontent.com/tarjiband/dataForSite/refs/heads/main/s1" }
 }
 
