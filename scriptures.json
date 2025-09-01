@@ -8,7 +8,8 @@
   "S7":  { "Name": "Scripture 7",  "Link": "#/scriptures/S7" },
   "S8":  { "Name": "Scripture 8",  "Link": "#/scriptures/S8" },
   "S9":  { "Name": "Scripture 9",  "Link": "#/scriptures/S9" },
-  "S10": { "Name": "Scripture 10", "Link": "#/scriptures/S10" }
-  "S11": { "Name": "Scripture 11", "Link": "#/scriptures/S11" }
+  "S10": { "Name": "Scripture 10", "Link": "#/scriptures/S10" },
+  "S11": { "Name": "Scripture 11", "Link": "#/scriptures/S11" },
+  "xxx": { "Name": "Scripture 11", "Link": "#/scriptures/S11" }
 }
 
